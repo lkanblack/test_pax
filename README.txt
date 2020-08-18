@@ -27,6 +27,6 @@ pass: 123123
 P.S
 I have uploaded the final version to a new repository : https://github.com/lkanblack/test_pax
 
-If for somethind you need previous versions too, they are avaible via links:
+If for somethind you need previous versions too, they are available via links:
 https://github.com/lkanblack/pax_trans
 https://github.com/lkanblack/transaction
