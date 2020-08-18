@@ -1,0 +1,8 @@
+.wallets {
+    display: flex;
+    justify-content: space-between;
+}
+.acc {
+    display: flex;
+    flex-direction: column;
+}
